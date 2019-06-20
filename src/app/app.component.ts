@@ -13,7 +13,7 @@ export class AppComponent {
       authDomain: "openbooks-e0f10.firebaseapp.com",
       databaseURL: "https://openbooks-e0f10.firebaseio.com",
       projectId: "openbooks-e0f10",
-      storageBucket: "",
+      storageBucket: "openbooks-e0f10.appspot.com",
       messagingSenderId: "216037221160",
       appId: "1:216037221160:web:278caafe39da4d9f"
     };
